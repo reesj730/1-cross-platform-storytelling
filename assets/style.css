@@ -1,0 +1,90 @@
+
+@import url(//db.onlinewebfonts.com/c/8dbf42c94d6fecef0fffc09d21835bda?family=Mysl);
+
+@font-face {
+	font-family: "Mysl"; src: 
+	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.eot"); src: 
+	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.eot?#iefix") 
+	format("embedded-opentype"), 
+	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.woff2") 
+	format("woff2"), 
+	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.woff") 
+	format("woff"), 
+	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.ttf") 
+	format("truetype"), 
+	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.svg#Mysl") 
+	format("svg"); 
+}
+
+.link { color: #CFAC44; }
+.link:hover { color: white; } /* CSS link hover (green) */
+
+body {
+  padding:50px;
+}
+
+/* background img */
+.sky_png{
+   position: absolute;
+   width: 1440px;
+   height: 1472px;
+   left: 0px;
+   top: 0px;
+   background: url(wp7331986.jpg);
+}
+
+/* star png */
+
+.stars_png{
+	position: absolute;
+    width: 603px;
+    height: 953px;
+    left: 162px;
+    top: 271px;
+
+    background: url(stars.png);
+}
+
+
+
+/* What is a person, if not the marks they leave behind? */
+
+h1{
+  position: absolute;
+  width: 636px;
+  height: 114px;
+  left: 541px;
+  top: 130px;
+
+  font-family: Mysl;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 69px;
+  line-height: 125%;
+
+  z-index: 1;
+
+  color: #CFAC44;
+}
+
+h2{
+  position: absolute;
+  width: 591px;
+  height: 84px;
+  left: 687px;
+  top: 1213px;
+
+  font-family: Mysl;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 52px;
+
+  z-index: 1;
+
+  color: #CFAC44;
+}
+
+
+
