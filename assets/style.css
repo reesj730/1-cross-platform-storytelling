@@ -1,19 +1,12 @@
 
-@import url(//db.onlinewebfonts.com/c/8dbf42c94d6fecef0fffc09d21835bda?family=Mysl);
 
-@font-face {
-	font-family: "Mysl"; src: 
-	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.eot"); src: 
-	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.eot?#iefix") 
-	format("embedded-opentype"), 
-	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.woff2") 
-	format("woff2"), 
-	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.woff") 
-	format("woff"), 
-	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.ttf") 
-	format("truetype"), 
-	url("//db.onlinewebfonts.com/t/8dbf42c94d6fecef0fffc09d21835bda.svg#Mysl") 
-	format("svg"); 
+@font-face{ 
+  font-family: 'vesperlibre-medium-webfontt';
+  src: url('vesperlibre-medium-webfontt.eot');
+  src: url('vesperlibre-medium-webfont.eot?#iefix') format('embedded-opentype'),
+       url('vesperlibre-medium-webfont.woff') format('woff'),
+       url('vesperlibre-medium-webfont.ttf') format('truetype'),
+       url('vesperlibre-medium-webfont.svg#webfont') format('svg');
 }
 
 .link { color: #CFAC44; }
@@ -50,40 +43,39 @@ body {
 /* What is a person, if not the marks they leave behind? */
 
 h1{
-  position: absolute;
-  width: 636px;
-  height: 114px;
-  left: 541px;
-  top: 130px;
+ position: absolute;
+ width: 636px;
+ height: 101px;
+ left: 541px;
+ top: 140px;
 
-  font-family: Mysl;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 48px;
-  line-height: 69px;
-  line-height: 125%;
+ font-family: Vesper Devanagari Libre;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 48px;
+ line-height: 60px;
 
-  z-index: 1;
+ z-index: 1;
 
-  color: #CFAC44;
+ color: #CFAC44;
 }
 
 h2{
-  position: absolute;
-  width: 591px;
-  height: 84px;
-  left: 687px;
-  top: 1213px;
+ position: absolute;
+ width: 591px;
+ height: 84px;
+ left: 687px;
+ top: 1190px;
 
-  font-family: Mysl;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 36px;
-  line-height: 52px;
+ font-family: Vesper Devanagari Libre;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 36px;
+ line-height: 51px;
 
-  z-index: 1;
+ z-index: 1;
 
-  color: #CFAC44;
+ color: #CFAC44;
 }
 
 
